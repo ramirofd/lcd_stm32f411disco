@@ -23,6 +23,14 @@
 #include "st7735.h"
 #include "fonts.h"
 
+// CS 	--> PB15
+// AO 	--> PB14
+// RST 	--> PB12
+// SCK 	-->	PB3
+// SDA 	-->	PB5
+// LED	-->	3V
+// VCC	--> 3V
+// GND	--> GND
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
